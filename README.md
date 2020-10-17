@@ -4,7 +4,6 @@
 This bat file will enable Group Policy on Windows 10 Home. 
 Using this will modify your windows 10 installation. You might not receive no updates due the modification applied.
 Do not use this on anything but Windows 10 home as it was made/designed for it.
-I am not responsible for any damages (To your Operating system)
 Use at your own discretion
 
 Here is Gitlab: https://gitlab.com/Ignaciox/GroupPolicyEdit
